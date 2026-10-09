@@ -1,0 +1,10 @@
+# AetherGrid sample configuration
+# Format: key=value
+# Comments start with '#'
+
+log_level=INFO
+max_cycles=100
+damping_factor=0.95
+require_auth=true
+telemetry_path=data/sample_telemetry.txt
+initial_funds=1000.0
